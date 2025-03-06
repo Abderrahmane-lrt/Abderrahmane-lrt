@@ -12,7 +12,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="450" src="https://github.com/user-attachments/assets/32ccdf8b-8aa8-417d-960e-25d9d11aad4f">
+<img align="right" alt="Coding" width="350" height="320" src="https://github.com/user-attachments/assets/f562888e-fb1f-450b-a080-60c720cf4a65">
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
