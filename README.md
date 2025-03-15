@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi There, I'm Abderrahamnane Lartab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Full Stack Developer </h3>
 <p align="center">
@@ -9,7 +10,6 @@
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
-
 </div>
 
 <img align="right" alt="Coding" width="350" height="320" src="https://github.com/user-attachments/assets/f562888e-fb1f-450b-a080-60c720cf4a65">
