@@ -12,7 +12,6 @@
 - 👯 I’m looking forward to collaborate on open source projects.
 - 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 😄 Pronouns: He/Him/We
-- ⚡ Coding fact: "There are over 700 different programming languages".
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 <h3 align="left">Languages and Tools:</h3>
 
