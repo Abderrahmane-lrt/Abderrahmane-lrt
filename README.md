@@ -5,7 +5,6 @@
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 - 👨‍🎓 I’m currently a student
 - 👯 I’m looking forward to collaborate on open source projects.
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 - 😄 Pronouns: He/Him/We
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 <h3 align="left">Languages and Tools:</h3>
